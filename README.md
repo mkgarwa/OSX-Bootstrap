@@ -39,7 +39,7 @@ Run the script to install all essential software and applications
 * vim
 * wget
 
-### CASK (Install if not already)
+### CASK (If not already)
 * colluquy
 * dropbox
 * firefox
