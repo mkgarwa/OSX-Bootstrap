@@ -1,6 +1,8 @@
 # OSX-Bootstrap
 Run the script to install all essential software and applications
 
+#### Note: If installing full Xcode, it's better to install that first from the app store before running the bootstrap script. Otherwise, Homebrew can't access the Xcode libraries as the agreement hasn't been accepted yet.
+
 # Instructions to run
 
 * There are two scripts in here. If you are a programmer or want to install some software development applications then download `osx_bootstrap_programmer.sh`.
